@@ -85,6 +85,11 @@ a {
 	vertical-align:middle;
 }
 
+#toplink {
+	padding-top: 8px;
+	padding-bottom: 7px;
+}
+
 #toplink, #toplink li {
 	padding-right: 10px;
 	padding-left: 5px;
@@ -94,9 +99,7 @@ a {
     font-weight: bold;
     font-size: 13px;
     text-align: center;
-    vertical-align: middle;
     position: relative;
-	top:15%;
 }
 	
 #toplink a:visited {
